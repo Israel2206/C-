@@ -7,6 +7,7 @@ int main(){
     
     int vidas = 3, tiros =500, life=100;
 
+    cout << vidas << " " << tiros <<" "<< life << endl;
     cout << pi << endl;
     canal
 
