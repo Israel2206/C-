@@ -12,6 +12,5 @@ int main(){
         cout << opc << endl;
     }
     
-
     return 0;
 }
